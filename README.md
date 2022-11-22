@@ -1,6 +1,6 @@
 # puzzlesPractice
 
-Day 1 (Total Attempted - )
+## Day 1 (Total Attempted - 1-10 )
 
 ### 1- Camel and Banana Problems
 #### Hint
