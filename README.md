@@ -89,8 +89,11 @@
 #### Hint 
 - start with goat as it do not have conflict.
 
+### 21 Probabilty of getting one rupee coin from bag
+#### Hint 
+- use total probabolty (getting first coin as one * getting second as one + getting first of 50 paisa * getting second of One)
 
-
+### 22 
 
 
 
