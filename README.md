@@ -85,15 +85,29 @@
 #### Hint 
 - n+(n-1)+(n-2)+(n-3)+....+0 = 66
 
-### 20 River Crossing puzzle 
+### 20 - River Crossing puzzle 
 #### Hint 
 - start with goat as it do not have conflict.
 
-### 21 Probabilty of getting one rupee coin from bag
+### 21 - Probabilty of getting one rupee coin from bag
 #### Hint 
-- use total probabolty (getting first coin as one * getting second as one + getting first of 50 paisa * getting second of One)
+- use total probability (getting first coin as one * getting second as one + getting first of 50 paisa * getting second of One)
 
-### 22 
+### 22 - 3 doors and puzzle
+#### Hint 
+- N = 1/3*0 + 1/3*(N+1) + 1/3*(2+N)
+
+### 23 - probability of picking 2 socks of same color:
+#### Hint
+- use PNC and probability
+
+### 24 - blind bartender's problem
+#### Hint 
+- start from diagonal
+
+### 25 - Heavy and Light balls
+#### Hint
+- take pairs for first time A1,B1 and B2,c1 and for second time take A1,B1,A2,C1
 
 
 
